@@ -1,2 +1,3 @@
 # Distributed-20-Spigot
-A dice-rolling plugin that produce randomized numbers into normal distribution.
+A Spigot dice-rolling plugin that produces randomized numbers into normal distribution.
+Written in Kotlin
