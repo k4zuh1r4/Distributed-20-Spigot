@@ -1,0 +1,7 @@
+name: Distributed20
+version: '${project.version}'
+main: me.kazuhira.distributed20.Distributed20
+api-version: '1.20'
+commands:
+  roll:
+    description: Rolling a random custom-sized dice into normal distribution using Marsaglian polar method.
